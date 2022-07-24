@@ -1,0 +1,33 @@
+<annotation>
+  <folder></folder>
+  <filename>Screenshot 2022-06-20 145547.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>430</width>
+    <height>273</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>open</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>163.21</xmin>
+      <ymin>77.97</ymin>
+      <xmax>355.29</xmax>
+      <ymax>234.48</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>

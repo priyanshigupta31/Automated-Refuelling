@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>291653</id>
+      <name>car fuel door</name>
+      <size>60</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2022-06-20 10:49:06.831634+01:00</created>
+      <updated>2022-06-20 11:09:52.918034+01:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>59</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>443375</id>
+          <start>0</start>
+          <stop>59</stop>
+          <url>https://cvat.org/?id=443375</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>priyanshi311</username>
+        <email>priyanshi311201@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>closed</name>
+          <color>#2a7dd1</color>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>open</name>
+          <color>#fa3253</color>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2022-06-20 11:40:56.521270+01:00</dumped>
+  </meta>
+  <image id="0" name="Screenshot 2022-06-20 145143.jpg" width="342" height="282">
+    <box label="closed" occluded="0" source="manual" xtl="102.79" ytl="114.08" xbr="155.60" ybr="154.04" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="Screenshot 2022-06-20 145213.jpg" width="401" height="258">
+    <box label="closed" occluded="0" source="manual" xtl="33.49" ytl="40.51" xbr="202.41" ybr="164.05" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="Screenshot 2022-06-20 145231.jpg" width="380" height="271">
+    <box label="closed" occluded="0" source="manual" xtl="110.78" ytl="38.13" xbr="350.44" ybr="262.35" z_order="0">
+    </box>
+  </image>
+  <image id="3" name="Screenshot 2022-06-20 145259.jpg" width="498" height="327">
+    <box label="closed" occluded="0" source="manual" xtl="109.22" ytl="72.63" xbr="397.87" ybr="305.90" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="Screenshot 2022-06-20 145314.jpg" width="586" height="337">
+    <box label="closed" occluded="0" source="manual" xtl="347.58" ytl="60.59" xbr="447.48" ybr="190.12" z_order="0">
+    </box>
+  </image>
+  <image id="5" name="Screenshot 2022-06-20 145335.jpg" width="412" height="271">
+    <box label="closed" occluded="0" source="manual" xtl="182.37" ytl="26.66" xbr="358.92" ybr="238.07" z_order="0">
+    </box>
+  </image>
+  <image id="6" name="Screenshot 2022-06-20 145352.jpg" width="437" height="292">
+    <box label="closed" occluded="0" source="manual" xtl="269.16" ytl="101.00" xbr="437.00" ybr="290.28" z_order="0">
+    </box>
+  </image>
+  <image id="7" name="Screenshot 2022-06-20 145416.jpg" width="446" height="290">
+    <box label="closed" occluded="0" source="manual" xtl="154.28" ytl="138.12" xbr="305.42" ybr="271.31" z_order="0">
+    </box>
+  </image>
+  <image id="8" name="Screenshot 2022-06-20 145448.jpg" width="412" height="320">
+    <box label="closed" occluded="0" source="manual" xtl="116.62" ytl="27.29" xbr="410.56" ybr="275.89" z_order="0">
+    </box>
+  </image>
+  <image id="9" name="Screenshot 2022-06-20 145503.jpg" width="477" height="307">
+    <box label="closed" occluded="0" source="manual" xtl="203.75" ytl="23.20" xbr="467.25" ybr="246.20" z_order="0">
+    </box>
+  </image>
+  <image id="10" name="Screenshot 2022-06-20 145547.jpg" width="430" height="273">
+    <box label="open" occluded="0" source="manual" xtl="163.21" ytl="77.97" xbr="355.29" ybr="234.48" z_order="0">
+    </box>
+  </image>
+  <image id="11" name="Screenshot 2022-06-20 145605.jpg" width="402" height="277">
+    <box label="open" occluded="0" source="manual" xtl="130.85" ytl="31.78" xbr="343.33" ybr="241.56" z_order="0">
+    </box>
+  </image>
+  <image id="12" name="Screenshot 2022-06-20 145618.jpg" width="386" height="242">
+    <box label="open" occluded="0" source="manual" xtl="108.44" ytl="4.11" xbr="350.05" ybr="240.99" z_order="0">
+    </box>
+  </image>
+  <image id="13" name="Screenshot 2022-06-20 145633.jpg" width="528" height="332">
+    <box label="open" occluded="0" source="manual" xtl="258.31" ytl="38.08" xbr="490.82" ybr="293.84" z_order="0">
+    </box>
+  </image>
+  <image id="14" name="Screenshot 2022-06-20 145652.jpg" width="450" height="281">
+    <box label="open" occluded="0" source="manual" xtl="199.60" ytl="10.72" xbr="359.78" ybr="251.91" z_order="0">
+    </box>
+  </image>
+  <image id="15" name="Screenshot 2022-06-20 145719.jpg" width="406" height="270">
+    <box label="open" occluded="0" source="manual" xtl="220.81" ytl="56.04" xbr="378.68" ybr="250.84" z_order="0">
+    </box>
+  </image>
+  <image id="16" name="Screenshot 2022-06-20 145732.jpg" width="427" height="275">
+    <box label="open" occluded="0" source="manual" xtl="96.00" ytl="9.57" xbr="278.20" ybr="164.97" z_order="0">
+    </box>
+  </image>
+  <image id="17" name="Screenshot 2022-06-20 145752.jpg" width="395" height="258">
+    <box label="open" occluded="0" source="manual" xtl="180.48" ytl="3.53" xbr="327.54" ybr="223.29" z_order="0">
+    </box>
+  </image>
+  <image id="18" name="Screenshot 2022-06-20 145815.jpg" width="392" height="297">
+    <box label="open" occluded="0" source="manual" xtl="174.95" ytl="41.79" xbr="351.51" ybr="230.92" z_order="0">
+    </box>
+  </image>
+  <image id="19" name="Screenshot 2022-06-20 145829.jpg" width="375" height="296">
+    <box label="open" occluded="0" source="manual" xtl="22.86" ytl="136.63" xbr="187.73" ybr="271.62" z_order="0">
+    </box>
+  </image>
+  <image id="20" name="asdf.jpg" width="300" height="168">
+    <box label="closed" occluded="0" source="manual" xtl="85.02" ytl="38.15" xbr="194.19" ybr="133.09" z_order="0">
+    </box>
+  </image>
+  <image id="21" name="download (1).jpg" width="262" height="192">
+    <box label="open" occluded="0" source="manual" xtl="89.89" ytl="37.64" xbr="231.86" ybr="136.45" z_order="0">
+    </box>
+  </image>
+  <image id="22" name="download (10).jpg" width="319" height="158">
+    <box label="open" occluded="0" source="manual" xtl="127.59" ytl="0.00" xbr="301.47" ybr="151.93" z_order="0">
+    </box>
+  </image>
+  <image id="23" name="download (11).jpg" width="225" height="225">
+    <box label="open" occluded="0" source="manual" xtl="70.92" ytl="29.11" xbr="203.58" ybr="121.09" z_order="0">
+    </box>
+  </image>
+  <image id="24" name="download (12).jpg" width="275" height="183">
+    <box label="open" occluded="0" source="manual" xtl="127.81" ytl="35.59" xbr="220.50" ybr="161.67" z_order="0">
+    </box>
+  </image>
+  <image id="25" name="download (13).jpg" width="232" height="217">
+    <box label="closed" occluded="0" source="manual" xtl="34.18" ytl="59.52" xbr="103.45" ybr="124.19" z_order="0">
+    </box>
+  </image>
+  <image id="26" name="download (14).jpg" width="285" height="177">
+    <box label="closed" occluded="0" source="manual" xtl="103.43" ytl="44.80" xbr="191.36" ybr="129.55" z_order="0">
+    </box>
+  </image>
+  <image id="27" name="download (15).jpg" width="265" height="190">
+    <box label="closed" occluded="0" source="manual" xtl="90.89" ytl="49.33" xbr="180.32" ybr="126.07" z_order="0">
+    </box>
+  </image>
+  <image id="28" name="download (16).jpg" width="232" height="217">
+    <box label="closed" occluded="0" source="manual" xtl="35.94" ytl="57.75" xbr="102.74" ybr="123.13" z_order="0">
+    </box>
+  </image>
+  <image id="29" name="download (17).jpg" width="275" height="183">
+    <box label="closed" occluded="0" source="manual" xtl="81.61" ytl="13.24" xbr="183.24" ybr="127.39" z_order="0">
+    </box>
+  </image>
+  <image id="30" name="download (18).jpg" width="265" height="190">
+    <box label="closed" occluded="0" source="manual" xtl="116.57" ytl="53.97" xbr="189.29" ybr="125.76" z_order="0">
+    </box>
+  </image>
+  <image id="31" name="download (19).jpg" width="275" height="183">
+    <box label="closed" occluded="0" source="manual" xtl="69.69" ytl="10.86" xbr="189.80" ybr="170.01" z_order="0">
+    </box>
+  </image>
+  <image id="32" name="download (2).jpg" width="275" height="183">
+    <box label="open" occluded="0" source="manual" xtl="154.33" ytl="76.43" xbr="200.83" ybr="154.22" z_order="0">
+    </box>
+  </image>
+  <image id="33" name="download (3).jpg" width="265" height="190">
+    <box label="open" occluded="0" source="manual" xtl="102.95" ytl="38.81" xbr="204.14" ybr="140.61" z_order="0">
+    </box>
+  </image>
+  <image id="34" name="download (4).jpg" width="262" height="192">
+    <box label="open" occluded="0" source="manual" xtl="44.55" ytl="18.88" xbr="208.72" ybr="133.64" z_order="0">
+    </box>
+  </image>
+  <image id="35" name="download (5).jpg" width="275" height="183">
+    <box label="open" occluded="0" source="manual" xtl="126.62" ytl="54.67" xbr="201.43" ybr="133.95" z_order="0">
+    </box>
+  </image>
+  <image id="36" name="download (5.jpg" width="250" height="202">
+    <box label="open" occluded="0" source="manual" xtl="111.99" ytl="63.63" xbr="222.53" ybr="159.37" z_order="0">
+    </box>
+  </image>
+  <image id="37" name="download (6).jpg" width="275" height="183">
+    <box label="open" occluded="0" source="manual" xtl="67.01" ytl="62.42" xbr="160.30" ybr="119.34" z_order="0">
+    </box>
+  </image>
+  <image id="38" name="download (7).jpg" width="265" height="190">
+    <box label="open" occluded="0" source="manual" xtl="116.88" ytl="44.07" xbr="239.11" ybr="164.75" z_order="0">
+    </box>
+  </image>
+  <image id="39" name="download (8).jpg" width="225" height="225">
+    <box label="open" occluded="0" source="manual" xtl="68.73" ytl="31.31" xbr="198.45" ybr="125.49" z_order="0">
+    </box>
+  </image>
+  <image id="40" name="download (9).jpg" width="265" height="190">
+    <box label="open" occluded="0" source="manual" xtl="116.26" ytl="12.81" xbr="229.52" ybr="134.73" z_order="0">
+    </box>
+  </image>
+  <image id="41" name="download.jpg" width="265" height="190">
+    <box label="open" occluded="0" source="manual" xtl="98.31" ytl="53.35" xbr="210.95" ybr="144.02" z_order="0">
+    </box>
+  </image>
+  <image id="42" name="fgfg.jpg" width="265" height="190">
+    <box label="closed" occluded="0" source="manual" xtl="16.93" ytl="21.79" xbr="119.05" ybr="114.00" z_order="0">
+    </box>
+  </image>
+  <image id="43" name="images ( (2).jpg" width="265" height="190">
+    <box label="closed" occluded="0" source="manual" xtl="89.34" ytl="83.99" xbr="183.10" ybr="162.89" z_order="0">
+    </box>
+  </image>
+  <image id="44" name="images (.jpg" width="293" height="172">
+    <box label="open" occluded="0" source="manual" xtl="101.27" ytl="53.90" xbr="215.00" ybr="128.97" z_order="0">
+    </box>
+  </image>
+  <image id="45" name="images (1).jpg" width="269" height="187">
+    <box label="open" occluded="0" source="manual" xtl="83.18" ytl="51.30" xbr="227.24" ybr="154.24" z_order="0">
+    </box>
+  </image>
+  <image id="46" name="images (10).jpg" width="259" height="194">
+    <box label="closed" occluded="0" source="manual" xtl="82.89" ytl="47.85" xbr="178.00" ybr="138.19" z_order="0">
+    </box>
+  </image>
+  <image id="47" name="images (11).jpg" width="300" height="168">
+    <box label="closed" occluded="0" source="manual" xtl="143.57" ytl="76.45" xbr="258.76" ybr="166.47" z_order="0">
+    </box>
+  </image>
+  <image id="48" name="images (2).jpg" width="285" height="177">
+    <box label="open" occluded="0" source="manual" xtl="92.19" ytl="42.20" xbr="214.71" ybr="128.11" z_order="0">
+    </box>
+  </image>
+  <image id="49" name="images (3).jpg" width="259" height="194">
+    <box label="closed" occluded="0" source="manual" xtl="66.78" ytl="30.76" xbr="172.94" ybr="136.61" z_order="0">
+    </box>
+  </image>
+  <image id="50" name="images (3.jpg" width="262" height="192">
+    <box label="closed" occluded="0" source="manual" xtl="49.87" ytl="36.08" xbr="135.86" ybr="148.02" z_order="0">
+    </box>
+  </image>
+  <image id="51" name="images (4).jpg" width="300" height="168">
+    <box label="open" occluded="0" source="manual" xtl="71.06" ytl="27.20" xbr="187.35" ybr="117.77" z_order="0">
+    </box>
+  </image>
+  <image id="52" name="images (5).jpg" width="265" height="190">
+    <box label="closed" occluded="0" source="manual" xtl="77.58" ytl="63.56" xbr="183.10" ybr="145.57" z_order="0">
+    </box>
+  </image>
+  <image id="53" name="images (6).jpg" width="300" height="168">
+    <box label="closed" occluded="0" source="manual" xtl="66.96" ytl="17.35" xbr="204.59" ybr="129.81" z_order="0">
+    </box>
+  </image>
+  <image id="54" name="images (7).jpg" width="300" height="168">
+    <box label="open" occluded="0" source="manual" xtl="121.96" ytl="54.02" xbr="197.20" ybr="114.76" z_order="0">
+    </box>
+  </image>
+  <image id="55" name="images (7)aa.jpg" width="300" height="168">
+    <box label="closed" occluded="0" source="manual" xtl="40.42" ytl="55.93" xbr="109.64" ybr="134.73" z_order="0">
+    </box>
+  </image>
+  <image id="56" name="images (8).jpg" width="256" height="197">
+    <box label="closed" occluded="0" source="manual" xtl="57.58" ytl="42.17" xbr="198.75" ybr="147.09" z_order="0">
+    </box>
+  </image>
+  <image id="57" name="images (9).jpg" width="259" height="194">
+    <box label="closed" occluded="0" source="manual" xtl="45.61" ytl="45.64" xbr="167.57" ybr="145.77" z_order="0">
+    </box>
+  </image>
+  <image id="58" name="images q.jpg" width="300" height="168">
+    <box label="closed" occluded="0" source="manual" xtl="112.93" ytl="54.57" xbr="180.78" ybr="144.59" z_order="0">
+    </box>
+  </image>
+  <image id="59" name="images.jpg" width="300" height="168">
+    <box label="open" occluded="0" source="manual" xtl="144.67" ytl="31.31" xbr="238.52" ybr="152.79" z_order="0">
+    </box>
+  </image>
+</annotations>

@@ -1,0 +1,60 @@
+data/obj_train_data/Screenshot 2022-06-20 145143.jpg
+data/obj_train_data/Screenshot 2022-06-20 145213.jpg
+data/obj_train_data/Screenshot 2022-06-20 145231.jpg
+data/obj_train_data/Screenshot 2022-06-20 145259.jpg
+data/obj_train_data/Screenshot 2022-06-20 145314.jpg
+data/obj_train_data/Screenshot 2022-06-20 145335.jpg
+data/obj_train_data/Screenshot 2022-06-20 145352.jpg
+data/obj_train_data/Screenshot 2022-06-20 145416.jpg
+data/obj_train_data/Screenshot 2022-06-20 145448.jpg
+data/obj_train_data/Screenshot 2022-06-20 145503.jpg
+data/obj_train_data/Screenshot 2022-06-20 145547.jpg
+data/obj_train_data/Screenshot 2022-06-20 145605.jpg
+data/obj_train_data/Screenshot 2022-06-20 145618.jpg
+data/obj_train_data/Screenshot 2022-06-20 145633.jpg
+data/obj_train_data/Screenshot 2022-06-20 145652.jpg
+data/obj_train_data/Screenshot 2022-06-20 145719.jpg
+data/obj_train_data/Screenshot 2022-06-20 145732.jpg
+data/obj_train_data/Screenshot 2022-06-20 145752.jpg
+data/obj_train_data/Screenshot 2022-06-20 145815.jpg
+data/obj_train_data/Screenshot 2022-06-20 145829.jpg
+data/obj_train_data/asdf.jpg
+data/obj_train_data/download (1).jpg
+data/obj_train_data/download (10).jpg
+data/obj_train_data/download (11).jpg
+data/obj_train_data/download (12).jpg
+data/obj_train_data/download (13).jpg
+data/obj_train_data/download (14).jpg
+data/obj_train_data/download (15).jpg
+data/obj_train_data/download (16).jpg
+data/obj_train_data/download (17).jpg
+data/obj_train_data/download (18).jpg
+data/obj_train_data/download (19).jpg
+data/obj_train_data/download (2).jpg
+data/obj_train_data/download (3).jpg
+data/obj_train_data/download (4).jpg
+data/obj_train_data/download (5).jpg
+data/obj_train_data/download (5.jpg
+data/obj_train_data/download (6).jpg
+data/obj_train_data/download (7).jpg
+data/obj_train_data/download (8).jpg
+data/obj_train_data/download (9).jpg
+data/obj_train_data/download.jpg
+data/obj_train_data/fgfg.jpg
+data/obj_train_data/images ( (2).jpg
+data/obj_train_data/images (.jpg
+data/obj_train_data/images (1).jpg
+data/obj_train_data/images (10).jpg
+data/obj_train_data/images (11).jpg
+data/obj_train_data/images (2).jpg
+data/obj_train_data/images (3).jpg
+data/obj_train_data/images (3.jpg
+data/obj_train_data/images (4).jpg
+data/obj_train_data/images (5).jpg
+data/obj_train_data/images (6).jpg
+data/obj_train_data/images (7).jpg
+data/obj_train_data/images (7)aa.jpg
+data/obj_train_data/images (8).jpg
+data/obj_train_data/images (9).jpg
+data/obj_train_data/images q.jpg
+data/obj_train_data/images.jpg
